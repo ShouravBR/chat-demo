@@ -13,6 +13,6 @@ io.on('connection', function(socket){
   });
 });
 
-http.listen(port, function(){
+http.listen(port, process.env.IP, function(){
   console.log('listening on *:' + port);
 });
