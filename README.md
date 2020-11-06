@@ -6,8 +6,6 @@ of the Socket.IO website.
 
 Forked from above
 
-live demo: https://chat-demo-sbr.herokuapp.com/
-
 Added
 1. user names
 2. user writing notification
